@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ThiagoSeridonio</string>
+    <string name="cep_resultado">
+    CEP: %1$s\nLogradouro: %2$s\nBairro: %3$s\nCidade: %4$s\nUF: %5$s
+    </string>
+    <string name="erro_cep">Erro: %1$s</string>
+    <string name="cep_nao_encontrado">Por favor, verifique o CEP digitado.</string>
+    <string name="mensagem_digite_cep">Por favor, digite um CEP.</string>
+
+</resources>
